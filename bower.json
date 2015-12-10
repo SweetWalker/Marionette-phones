@@ -1,0 +1,25 @@
+{
+  "name": "marionette-test",
+  "version": "0.0.1",
+  "authors": [
+    "epolischuksingree <polishuk@singree.com>"
+  ],
+  "description": "pewpew",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "jquery": "~2.1.4",
+    "backbone": "~1.2.3",
+    "backbone.marionette": "~2.4.4",
+    "json2": "*",
+    "bootstrap": "~3.3.6"
+  }
+}
